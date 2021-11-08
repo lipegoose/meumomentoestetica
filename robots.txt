@@ -1,0 +1,19 @@
+Agente de usuário: *
+
+Permitir: 
+
+Agente do usuário: Googlebot
+
+Permitir: 
+
+Agente do usuário: Googlebot-Image
+
+Permitir: 
+
+Agente do usuário: Mediapartners-Google
+
+Permitir: 
+
+Agente do usuário: Adsbot-Google
+
+Permitir: 
